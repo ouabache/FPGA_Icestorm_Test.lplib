@@ -1,0 +1,11 @@
+(librepcb_library e9871ebf-55c0-4342-a816-c450e825e6af
+ (name "FPGA_Icestorm_Test.lplib")
+ (description "")
+ (keywords "")
+ (author "Ouabache")
+ (version "0.1")
+ (created 2024-02-17T19:50:50Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
